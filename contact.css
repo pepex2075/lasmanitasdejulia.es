@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    align-items: center;
+}
+  
+.container img {
+    margin-right: 10px; /* Espacio entre la imagen y el texto, ajusta según necesites */
+}
+
+body {
+    text-transform: uppercase;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url('images/bckCONTACTO.jpg');
+}
